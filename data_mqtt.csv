@@ -1,0 +1,5 @@
+timestamp,lokasi,latitude,longitude,air_temperature_c,air_temperature_trend_pct,relative_humidity_pct,relative_humidity_trend_pct,soil_moisture_pct,moisture_trend_pct,status_suhu,status_rh,status_tanah,status_tren,static_threshold_status,warning_status,mode
+2026-10-25 19:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,27.3,,86.1,,66.4,,Normal,Normal,Normal,Initializing,Normal,Initializing,simulasi
+2026-10-25 20:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,27.2,,86.6,,66.7,,Normal,Normal,Normal,Initializing,Normal,Initializing,simulasi
+2026-10-25 21:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,27.1,,87.3,,66.5,,Normal,Normal,Normal,Initializing,Normal,Initializing,simulasi
+2026-10-25 22:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,26.9,,87.1,,66.8,,Normal,Normal,Normal,Initializing,Normal,Initializing,simulasi

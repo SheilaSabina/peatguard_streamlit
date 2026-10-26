@@ -1,0 +1,1 @@
+timestamp,lokasi,latitude,longitude,air_temperature_c,air_temperature_trend_pct,relative_humidity_pct,relative_humidity_trend_pct,soil_moisture_pct,moisture_trend_pct,status_suhu,status_rh,status_tanah,status_tren,static_threshold_status,warning_status,mode

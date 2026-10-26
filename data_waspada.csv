@@ -1,0 +1,26 @@
+timestamp,lokasi,latitude,longitude,air_temperature_c,air_temperature_trend_pct,relative_humidity_pct,relative_humidity_trend_pct,soil_moisture_pct,moisture_trend_pct,status_suhu,status_rh,status_tanah,status_tren,static_threshold_status,warning_status,mode
+2026-10-25 20:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,27.6,,84.5,,65.8,,Normal,Normal,Normal,Initializing,Normal,Initializing,simulasi
+2026-10-25 21:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,27.6,,84.2,,65.8,,Normal,Normal,Normal,Initializing,Normal,Initializing,simulasi
+2026-10-25 22:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,27.6,,83.9,,65.9,,Normal,Normal,Normal,Initializing,Normal,Initializing,simulasi
+2026-10-25 23:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,27.8,,84.0,,65.7,,Normal,Normal,Normal,Initializing,Normal,Initializing,simulasi
+2026-10-26 00:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,28.0,,83.3,,65.9,,Normal,Normal,Normal,Initializing,Normal,Initializing,simulasi
+2026-10-26 01:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,28.2,,81.6,,65.2,,Normal,Normal,Normal,Initializing,Normal,Initializing,simulasi
+2026-10-26 02:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,28.7,,80.8,,63.7,,Normal,Normal,Normal,Initializing,Normal,Initializing,simulasi
+2026-10-26 03:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,28.9,,79.8,,62.3,,Normal,Normal,Normal,Initializing,Normal,Initializing,simulasi
+2026-10-26 04:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,29.1,,78.4,,61.0,,Normal,Normal,Normal,Initializing,Normal,Initializing,simulasi
+2026-10-26 05:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,29.6,,77.4,,60.4,,Normal,Normal,Normal,Initializing,Normal,Initializing,simulasi
+2026-10-26 06:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,29.8,,76.6,,58.8,,Normal,Normal,Waspada,Initializing,Waspada,Initializing,simulasi
+2026-10-26 07:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,30.0,,75.6,,58.0,,Normal,Normal,Waspada,Initializing,Waspada,Initializing,simulasi
+2026-10-26 08:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,30.3,,73.8,,56.4,,Waspada,Normal,Waspada,Initializing,Waspada,Initializing,simulasi
+2026-10-26 09:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,30.6,,73.4,,55.2,,Waspada,Normal,Waspada,Initializing,Waspada,Initializing,simulasi
+2026-10-26 10:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,30.8,,71.4,,54.3,,Waspada,Normal,Waspada,Initializing,Waspada,Initializing,simulasi
+2026-10-26 11:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,31.0,,71.1,,53.0,,Waspada,Normal,Waspada,Initializing,Waspada,Initializing,simulasi
+2026-10-26 12:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,31.5,,70.0,,51.7,,Waspada,Waspada,Waspada,Initializing,Waspada,Initializing,simulasi
+2026-10-26 13:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,31.7,,68.2,,50.3,,Waspada,Waspada,Waspada,Initializing,Waspada,Initializing,simulasi
+2026-10-26 14:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,32.0,,67.4,,49.5,,Waspada,Waspada,Waspada,Initializing,Waspada,Initializing,simulasi
+2026-10-26 15:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,32.2,,66.7,,47.9,,Waspada,Waspada,Waspada,Initializing,Waspada,Initializing,simulasi
+2026-10-26 16:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,32.6,,64.8,,47.1,,Waspada,Waspada,Waspada,Initializing,Waspada,Initializing,simulasi
+2026-10-26 17:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,32.7,,64.3,,45.3,,Waspada,Waspada,Waspada,Initializing,Waspada,Initializing,simulasi
+2026-10-26 18:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,33.1,,63.4,,44.3,,Waspada,Waspada,Waspada,Initializing,Waspada,Initializing,simulasi
+2026-10-26 19:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,33.2,20.32,62.0,-32.32,43.2,-44.13,Waspada,Waspada,Waspada,Waspada,Waspada,Waspada,simulasi
+2026-10-26 20:00:00,Banjar/Banjarbaru (Kalsel),-3.469659,114.799191,33.5,20.53,61.1,-33.5,42.4,-46.58,Waspada,Waspada,Waspada,Waspada,Waspada,Waspada,simulasi

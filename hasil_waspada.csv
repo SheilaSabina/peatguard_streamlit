@@ -1,0 +1,2 @@
+run,skenario,baris_total,baris_dievaluasi,alarm_static,alarm_tren_aware,selisih_alarm,baris_beda_status,Normal->Waspada,Normal->Siaga,Waspada->Siaga,deteksi_waspada_static,deteksi_waspada_tren,lead_waspada,deteksi_siaga_static,deteksi_siaga_tren,lead_siaga,pelanggaran_tren_lebih_rendah
+1,WASPADA,72,49,31,36,5,5,5,0,0,42,37,5,-,-,-,0
