@@ -104,10 +104,21 @@ with st.sidebar:
             st.info("Status MQTT tidak tersedia. Jalankan mqtt_ke_csv.py versi terbaru untuk mengaktifkan heartbeat.")
     else:
         st.caption("Mode CSV unggahan: status MQTT tidak berlaku.")
-    st.caption("Status MQTT di atas adalah koneksi collector→broker, bukan bukti koneksi Wokwi→broker.")
-    st.caption("Broker: broker.hivemq.com:1883")
-    st.code("sic8/karhutla/banjarbaru/data",language=None)
-    st.caption("Mode MQTT publik; topic dapat menerima data dari publisher lain. Verifikasi sumber sebelum menganggapnya sebagai hasil pengujian.")
+     # Informasi teknis MQTT dibuat ringkas dalam expander.
+    with st.expander("ℹ️ Informasi Koneksi MQTT"):
+        st.markdown("**Broker:** `broker.hivemq.com:1883`")
+        st.markdown("**Topic:** `sic8/karhutla/banjarbaru/data`")
+
+        st.caption(
+            "Indikator koneksi menunjukkan hubungan Python subscriber "
+            "dengan broker MQTT, bukan secara langsung koneksi ESP32 di Wokwi."
+        )
+
+        st.caption(
+            "Broker MQTT bersifat publik sehingga topic dapat menerima "
+            "pesan dari publisher lain. Pastikan sumber data sesuai "
+            "sebelum digunakan sebagai hasil pengujian."
+        )
 
 def show_dashboard():
     if mode == "CSV dari MQTT collector" and path.exists():
